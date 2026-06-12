@@ -1,6 +1,6 @@
 ---
 title: "My First Blog Post"
-date: 2026-06-12
+date: 2026-06-13
 ---
 
 # 初めてのブログ投稿！
